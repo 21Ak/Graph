@@ -1,0 +1,6 @@
+MINIMUM SPANNING TREE
+
+Spanning Tree : A tree in which we have N nodes and N-1 edges and all nodes are reachable from each other
+The spanning tree that has the minimal sum is called the minimum spanning tree
+
+To find MST we use Prim's Algorithm and Kruskal's Algorithm
