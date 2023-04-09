@@ -4,7 +4,7 @@
 // 4. stand at 0 and look at the adjacent node ie 1, if unvisited, store it in the min heap as (edgeweight from 0 to 1, 1, parent(0))
 // 5. Do it for all the adjacent nodes of 0 and store them in the min heap, but do not mark the adjacent nodes visited
 // 6. Mark them visited only when taking them out of the min heap, smallest comes out first
-// 7. Now store the nodes in the mst array and addd the edge weights to the sum
+// 7. Now store the nodes in the mst array and add the edge weights to the sum
 // 8. Repeat for all the nodes 
 
 
