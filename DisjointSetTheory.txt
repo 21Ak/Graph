@@ -1,4 +1,0 @@
-1. Disjoint set tells whether a node belongs to the same component or not in constant time
-2. It has two functions, findParent() and union()
-3. Union can be applied by rank or by size
-4. Union dynamically joins the nodes of the graph
